@@ -7,7 +7,7 @@ function chillHop() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/09/0255e8b8c74c90d4a27c594b3452b2daafae608d-1024x1024.jpg",
       artist: "Aluna&George",
-      audio: "https://github.com/myschproj/music/raw/main/audios/AlunaGeorge%20%E2%80%93%20Your%20Drums,%20Your%20Love.m4a",
+      audio: "https://dl2.mp3party.net/download/9584247",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: true,
