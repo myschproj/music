@@ -23,6 +23,26 @@ function chillHop() {
       active: false,
     },
     {
+      name: "エレクトロ・ワールド",
+      cover:
+        "https://raw.githubusercontent.com/myschproj/music/main/audios/IMG_8946.jpeg",
+      artist: "Perfume",
+      audio: "https://github.com/myschproj/music/raw/main/audios/Perfume%20%E2%80%93%20%5BOfficial%20Music%20Video%5D%20%20....m4a",
+      color: ["#EF8EA9", "#ab417f"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: "Fire for you",
+      cover:
+        "https://raw.githubusercontent.com/myschproj/music/main/audios/IMG_9019.jpeg",
+      artist: "Cannons",
+      audio: "https://github.com/myschproj/music/raw/main/audios/CannonsVEVO%20%E2%80%93%20Cannons%20-%20Fire%20for%20You%20(....m4a",
+      color: ["#EF8EA9", "#ab417f"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
       name: "Keep Going",
       cover:
         "https://chillhop.com/wp-content/uploads/2020/07/ff35dede32321a8aa0953809812941bcf8a6bd35-1024x1024.jpg",
