@@ -73,6 +73,26 @@ function chillHop() {
       active: false,
     },
     {
+      name: "Keep on dancing",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2020/07/ff35dede32321a8aa0953809812941bcf8a6bd35-1024x1024.jpg",
+      artist: "Kay & Clio (prod. by Robert Ferrante)",
+      audio: "https://github.com/myschproj/music/raw/main/audios/Clio%20&%20Kay,%20Clio,%20&%20Roberto%20Ferrante%20–%20Keep%20On%20Dancing%20(feat.%20Kay%20Bianco%20-%20(Club%20Mix)%20Prod.%20by%20Roberto….m4a",
+      color: ["#CD607D", "#c94043"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: "Happy Hardcore",
+      cover:
+        "https://raw.githubusercontent.com/myschproj/music/main/audios/happy-hardcore.jpg",
+      artist: "ENV",
+      audio: "https://github.com/myschproj/music/raw/main/audios/Happy%20Hardcore%20-%20ENV.m4a",
+      color: ["#CD607D", "#c94043"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
       name: "Supernatural",
       cover:
         "https://chillhop.com/wp-content/uploads/2020/07/ff35dede32321a8aa0953809812941bcf8a6bd35-1024x1024.jpg",
