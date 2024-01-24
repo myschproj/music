@@ -75,7 +75,7 @@ function chillHop() {
     {
       name: "Keep on dancing",
       cover:
-        "https://chillhop.com/wp-content/uploads/2020/07/ff35dede32321a8aa0953809812941bcf8a6bd35-1024x1024.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6a/93/df/6a93df9f-88ac-a793-117b-0ba65a9e6d2b/cover.jpg/400x400cc.jpg",
       artist: "Kay & Clio (prod. by Robert Ferrante)",
       audio: "https://github.com/myschproj/music/raw/main/audios/Clio%20&%20Kay,%20Clio,%20&%20Roberto%20Ferrante%20–%20Keep%20On%20Dancing%20(feat.%20Kay%20Bianco%20-%20(Club%20Mix)%20Prod.%20by%20Roberto….m4a",
       color: ["#CD607D", "#c94043"],
@@ -95,7 +95,7 @@ function chillHop() {
     {
       name: "Supernatural",
       cover:
-        "https://chillhop.com/wp-content/uploads/2020/07/ff35dede32321a8aa0953809812941bcf8a6bd35-1024x1024.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/You-Know-You-Like-It-DJ-Snake.jpg/220px-You-Know-You-Like-It-DJ-Snake.jpg",
       artist: "Aluna&George",
       audio: "https://github.com/myschproj/music/raw/main/audios/AlunaGeorge%20–%20Supernatural.m4a",
       color: ["#CD607D", "#c94043"],
