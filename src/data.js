@@ -43,11 +43,11 @@ function chillHop() {
       active: false,
     },
     {
-      name: "Keep Going",
+      name: "Chipi chipi chapa chapa",
       cover:
-        "https://chillhop.com/wp-content/uploads/2020/07/ff35dede32321a8aa0953809812941bcf8a6bd35-1024x1024.jpg",
-      artist: "Swørn",
-      audio: "https://mp3.chillhop.com/serve.php/?mp3=9222",
+        "https://raw.githubusercontent.com/myschproj/music/main/audios/IMG_9048.jpeg",
+      artist: "B0yki$$er",
+      audio: "https://github.com/myschproj/music/raw/main/audios/Meme%20Mystery%20%E2%80%93%20Chipi%20Chipi%20Chapa%20Chapa%20....m4a",
       color: ["#CD607D", "#c94043"],
       id: uuidv4(),
       active: false,
