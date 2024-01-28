@@ -83,6 +83,16 @@ function chillHop() {
       active: false,
     },
     {
+      name: "Дымок",
+      cover:
+        "https://raw.githubusercontent.com/myschproj/music/main/audios/Снимок%20экрана%202024-01-28%20в%2016.45.41.png",
+      artist: "Ицык Цыпер",
+      audio: "https://github.com/myschproj/music/raw/main/audios/Дымок%20(feat.%20Игорь%20цыба)%20-%20Ицык%20Цыпер.m4a",
+      color: ["#00bfff", "#00bfff"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
       name: "Happy Hardcore",
       cover:
         "https://raw.githubusercontent.com/myschproj/music/main/audios/happy-hardcore.jpg",
